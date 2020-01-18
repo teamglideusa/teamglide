@@ -117,18 +117,11 @@ This adds any new files to be tracked and makes a commit. Now let's add them to 
 	git merge --no-ff my-feature-branch
 	git push origin develop
 
-Releasing
+License
 ------------
-Finished with your project?
+teamglide api is licenced under the GNU GPL licence
 
-- Create a feature branch as normal.
-- Update the version history in the README.md file
-- Update this to develop as normal.
+Security Vulnerabilities
+------------
+If you have found a security issue, please contact the maintainers directly at support@teamglide.com
 
-		git checkout master
-		git merge --no-ff develop
-		git push origin master
-		git tag v1.0.0
-		git push origin v1.0.0
-
-Replace 1.0.0 in the snippet here with your appropriate versions. Now you have a tag saved.
