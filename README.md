@@ -22,7 +22,7 @@ Usage
 
 teamglide api full usage documentation is located at:
 
-* [Developer API](https://developer.teamglide.com Our Pre Employment testing features
+* [Developer API](https://developer.teamglide.com) Our developer documentation for developing using our rest api
 
 
 
